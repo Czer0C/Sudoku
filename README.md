@@ -8,8 +8,8 @@
 </dl>
 
 ### Yêu cầu:
-> ## Sử dụng ngôn ngữ C và vận dụng các kiến thức đã học để xây dựng game sudoku với các chức năng cơ bản trên giao diện console.
-
+> ### Sử dụng ngôn ngữ C và vận dụng các kiến thức đã học để xây dựng game sudoku với các chức năng cơ bản trên giao diện console.
+***
 > ### Đặc tả:
 
 ![alt text](https://i.imgur.com/3cKGhxM.png)

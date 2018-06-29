@@ -10,7 +10,7 @@
 ### Yêu cầu:
 > ## Sử dụng ngôn ngữ C và vận dụng các kiến thức đã học để xây dựng game sudoku với các chức năng cơ bản trên giao diện console.
 
-### Đặc tả:
+> ### Đặc tả:
 
 ![alt text](https://i.imgur.com/3cKGhxM.png)
 ![alt text](https://i.imgur.com/GmTjxE1.png)
@@ -18,4 +18,4 @@
 ![alt text](https://i.imgur.com/GEZLNZb.png)
 ![alt text](https://i.imgur.com/zF48KiT.png)
 
-### Tool sử dụng: Visual Studio 2015 Enterprise
+> ### Tool sử dụng: Visual Studio 2015 Enterprise

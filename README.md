@@ -1,4 +1,4 @@
-# Sudoku
+# Đồ án cuối kì môn kỹ thuật lập trình
 
 <dl>
 	<dt><h3><b>Thành viên:</b></h3></dt>
